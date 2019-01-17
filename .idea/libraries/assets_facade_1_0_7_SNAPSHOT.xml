@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="assets-facade-1.0.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/assets-facade-1.0.7-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
